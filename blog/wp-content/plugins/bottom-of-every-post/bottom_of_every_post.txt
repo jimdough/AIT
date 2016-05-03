@@ -1,0 +1,3 @@
+<div class="text-center row hide-for-small"><a href="http://www.ait-schools.com/get-started/blog.php?utm_source=Banner&utm_medium=Apply%2BNow&utm_content=INSERT%2BDESCRIPTION&utm_campaign=Blog" target="_blank"><img src="http://www.ait-schools.com/img/apply-now-banner.png" border="0"></a></div>
+
+<div class="text-center row show-for-small"><a href="http://www.ait-schools.com/get-started/blog.php?utm_source=Banner&utm_medium=Apply%2BNow&utm_content=INSERT%2BDESCRIPTION&utm_campaign=Blog" target="_blank"><img src="http://www.ait-schools.com/img/applyNow.png" border="0"></a></div>

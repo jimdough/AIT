@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Corporate basic v1.1.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-30 11:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:45
+msgid "0 Comments"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:45
+msgid "1 Comment"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:45
+msgid "% Comments"
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:16 functions.php:328 functions.php:457
+msgid "&laquo;"
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:16 functions.php:328 functions.php:457
+msgid "&raquo;"
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:35
+msgid "Leave a comment"
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:36
+msgid "Your email address will not be published."
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:38
+msgid "Comment"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:76
+msgid "Main Navigation"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:117
+msgid "Sidebar"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:118 functions.php:119 functions.php:120 functions.php:121
+msgid "Widget area on homepage"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:410
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:414
+msgid "(Edit)"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:417
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:434
+msgid "Name "
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:435
+msgid "Email "
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:436
+msgid "Website"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:172
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:37
+#: includes/widgets/mh-custom-posts.php:69
+#: includes/widgets/mh-custom-slider.php:90
+#: includes/widgets/mh-custom-slider.php:108
+#: includes/widgets/mh-custom-slider.php:126
+msgid "Title:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:46 includes/mh-options.php:71
+msgid "Left"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:46 includes/mh-options.php:72
+msgid "Right"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:200
+msgid "Archives"
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:30
+msgid "Comments are closed."
+msgstr ""
+
+# @ mh-corporate-basic
+#: searchform.php:3
+msgid "To search, type and hit enter"
+msgstr ""
+
+# @ mh-corporate-basic
+#: content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+# @ mh-corporate-basic
+#: 404.php:6 content-none.php:7
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:206
+msgid "Page not found (404)"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:375
+msgid "&larr; Back to post"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:382
+msgid "&larr; Previous image"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:384
+msgid "&larr; Previous post"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:389
+msgid "Next image &rarr;"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:391
+msgid "Next post &rarr;"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:117
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:122 functions.php:123 functions.php:124 functions.php:125
+msgid "Widget area in footer"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:73 includes/widgets/mh-slider.php:56
+msgid "Select a Category:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:75 includes/widgets/mh-slider.php:58
+msgid "All"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:97 includes/widgets/mh-slider.php:80
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:9
+msgid ""
+"MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:45
+msgid "Banner size:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:54
+msgid "infopage for affiliates"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:88 includes/widgets/mh-slider.php:71
+msgid "Limit Post Number:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:92 includes/widgets/mh-slider.php:75
+msgid "Skip Posts (Offset):"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-slider.php:9
+msgid "Slider widget for use on homepage template."
+msgstr ""
+
+# @ mh-corporate-basic
+#: comments.php:9
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-corporate-basic
+#: comments.php:22
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:192
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:208
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:293
+#, php-format
+msgctxt "post date"
+msgid "on %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:294
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:295
+#, php-format
+msgctxt "post category"
+msgid "in %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:296
+#, php-format
+msgctxt "post meta"
+msgid "Posted %1$s %2$s %3$s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:345
+#, php-format
+msgid "About %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:447
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:44
+msgid "Custom Excerpt Length in Characters"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:45
+msgid "Custom Excerpt More-Text"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:46
+msgid "Position of Sidebar"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:47
+msgid "Scale Background Image to Full Size"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:118 functions.php:119 functions.php:120 functions.php:121
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d"
+msgstr ""
+
+# @ mh-corporate-basic
+#: functions.php:122 functions.php:123 functions.php:124 functions.php:125
+#, php-format
+msgctxt "widget area name"
+msgid "Footer %d"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:54
+msgid ""
+"With this widget you can earn money by promoting WordPress themes by MH "
+"Themes. If you do not have a Creative Market Username yet, please visit our:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: 404.php:10 content-none.php:12
+msgid "Tag Cloud"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:16
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:20
+msgid "Important Links:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:21
+msgid "Theme Info Page"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:22
+msgid "Support Center"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:23
+msgid "Rate this theme"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:28
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:32
+msgid "Theme Documentation"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:33
+#, php-format
+msgid ""
+"Need any help to setup and configure %s? Please have a look at the "
+"instructions on the Theme Info Page or read the Documentations and Tutorials "
+"in our Support Center."
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:35
+msgid "Visit Documentation"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:39 includes/mh-options.php:29
+msgid "Theme Options"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:40
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:42
+msgid "Customize Theme"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:46 includes/mh-options.php:30
+msgid "Upgrade to Premium"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:47
+msgid ""
+"Need more features and options? Check out the Premium Version of this theme "
+"which comes with additional features and advanced customization options for "
+"your website."
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:49 includes/mh-options.php:50
+msgid "Learn more about the Premium Version"
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:60
+#, php-format
+msgid ""
+"%1s is proudly brought to you by %2s. If you like this WordPress theme, %3s."
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:63
+msgid "rate it"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:48
+msgid "Need more features and options?"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/mh-options.php:49
+msgid ""
+"Check out the Premium Version of this theme which comes with additional "
+"features and advanced customization options for your website."
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:9
+msgid "Custom Posts Widget to display posts based on categories."
+msgstr ""
+
+# @ mhp
+#: includes/widgets/mh-custom-pages.php:56
+#: includes/widgets/mh-custom-posts.php:100
+#: includes/widgets/mh-custom-slider.php:142 includes/widgets/mh-slider.php:83
+msgid ""
+"This is the lite version of this widget with basic features. If you need "
+"more professional features and options, you can upgrade to the premium "
+"version of this theme."
+msgstr ""
+
+# @ mh-corporate-basic
+#: admin/admin.php:7
+msgid "Welcome to MH Corporate basic"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-pages.php:9
+msgid "Custom Pages Widget to display pages based on page IDs."
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-pages.php:48
+msgid "Title (optional):"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-pages.php:52
+msgid "Page ID:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:9
+msgid ""
+"Custom Slider Widget to display custom content for use on homepage template."
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:88
+#: includes/widgets/mh-custom-slider.php:106
+#: includes/widgets/mh-custom-slider.php:124
+msgid "Slide"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:94
+#: includes/widgets/mh-custom-slider.php:112
+#: includes/widgets/mh-custom-slider.php:130
+msgid "Custom URL:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:98
+#: includes/widgets/mh-custom-slider.php:116
+#: includes/widgets/mh-custom-slider.php:134
+msgid "Custom Image URL:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:102
+#: includes/widgets/mh-custom-slider.php:120
+#: includes/widgets/mh-custom-slider.php:138
+msgid "Custom Excerpt:"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-affiliate.php:8
+msgctxt "widget name"
+msgid "MH Affiliate Widget"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-pages.php:8
+msgctxt "widget name"
+msgid "MH Custom Pages (lite)"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts (lite)"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-custom-slider.php:8
+msgctxt "widget name"
+msgid "MH Custom Slider (lite)"
+msgstr ""
+
+# @ mh-corporate-basic
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider (lite)"
+msgstr ""
