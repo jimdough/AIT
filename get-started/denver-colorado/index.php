@@ -7,13 +7,18 @@
     
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <META NAME="DESCRIPTION" CONTENT="CDL Training is available in Denver,Colorado at our Truck Driving School.">
+  <meta name="DESCRIPTION" content="CDL Training is available in Denver,Colorado at our Truck Driving School.">
   
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600|Oswald:400,300' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="../../css/foundation.css" media="all" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="../styles.css" media="all" />
-    <link href="http://www.ait-schools.com/get-started/phoenix/index.php/" rel="canonical" />
+  <style>
+	.panel{
+		max-width: 60%;
+	}  
+	</style>
+  <link href="http://www.ait-schools.com/get-started/denver/index.php" rel="canonical" />
 
   
   <!--[if IE 7]>
@@ -32,65 +37,83 @@
 
 
 	<!-- Start: Wrapper -->
-	<div class="wrapper editable">
-		
-		<!-- Start: Header -->
-		 <header id="header">
-		 		<div class="row headerStripe">
-		 			<div class="columns small-4 large-3 headerStripe">
-			 			<img style="padding-top: .5em;" src="/img/logo-website-white.png">
-		 			</div>
-		 			
-		 			<div class="columns small-8 large-9 headerStripe text-right">
-			 			<h2>AIT Truck Driver Training</h2>
-			 			<span class="topPhone">(303) 558-3152</span>
-		 			</div>
-
-		 		</div>
-		 </header>
-		 <!-- End: Header -->
-		 
-		 <div class="row">
-		 	 	 <section class="small-12 column noPad">
-		 	 	 	<img style="min-width:100%;" src="../header.jpg" alt="CDL Classes in Denver,Colorado">
-		 	 	 </section>
-		 	 	
-
-		  </div>	 <!-- End Row-->
-		  
-		  <div class="row">
-			  <div class="columns small-12">
-				  
-				  <h1>CDL Training in Denver, Colorado</h1>
-				  
-				  <p>Our Truck Driver Training teaches the essential skills needed to pass the CDL exam. AIT Truck Driver Training goes well beyond the basics and prepares our graduates for life on the road as professional truck drivers for major transportation carriers! All truck driving schools train for this CDL exam, but equally important is the preparation needed for life on the road to become an outstanding Professional Truck Driver and not all CDL classes include this valuable information.</p>
-
-<p>AIT’s truck driving school in Denver, Colorado prepares students for their careers as a Professional Truck Driver. AIT's experienced instructors teach students the proper techniques for driving tractor trailers, tracking miles and time through log management, coupling trailers, and performing pre- and post-trip inspections. In addition, AIT's comprehensive career training is focused on encouraging growth well beyond the basics.</p>
-
-<p>Through AIT’s comprehensive CDL training, hands-on training and its incredible team of instructors, you can complete CDL training in as little as four weeks! AIT’s training programs, job placement assistance, and carrier opportunities will have you on the path to becoming a Professional Truck Driver in no time!</p>
-
-				  
-  <h3>Why are Professional Truck Drivers in such high demand?</h3>
- 
-<p>After a pitfall in the economy, America is finally turning around its production game. More goods produced means more distribution, and transporting these goods isn’t a task that can be outsourced. This is great news for anyone looking for a fresh beginning in an exciting career! By earning your Class A Commercial Driver’s License (CDL), you make the first step towards entering this quickly expanding job market.</p>
-
+	<div class="wrapper editable" id="untitled-region-1"><p> </p>
+<!-- Start: Header --><header id="header">
+<div class="row headerStripe">
+<div class="columns small-4 large-3 headerStripe"><img style="padding-top: .5em;" src="../../img/logo-website-white.png" alt=""></div>
+<div class="columns small-8 large-9 headerStripe text-right">
+<h2>AIT Truck Driver Training</h2>
+<span class="topPhone">(303) 558-3152</span></div>
+</div>
+</header><!-- End: Header -->
+<div class="row">
+<section class="small-12 column noPad"><img style="min-width: 100%;" src="../header.jpg" alt="CDL Classes in Denver,Colorado"></section>
+</div>
+<!-- End Row-->
+<div class="row">
+<div class="columns small-12">
+<h1>CDL Training in Denver, Colorado</h1>
+<p>Experienced instructors at AIT Truck Driver Training in Denver, Colorado  teach students the proper techniques for driving tractor trailers, tracking miles and time through log management, coupling trailers, and performing inspections amongst other essential skills. Through AIT’s comprehensive courses, hands-on training and its incredible team of instructors, you can complete <strong>Class A CDL Training</strong> in as little as four weeks! </p>
+</div>
+</div>
+<div class="row">
+<div class="columns small-12 medium-6 large-6">
+<h3>Class A CDL License School in Denver, Colorado</h3>
+<p>At AIT, we teach our trainees to be skilled, safe and career-focused truck drivers who will be reliable additions to the trucking industry. Our CDL training programs give truck driver trainees a meaningful education with the highest ethical standards. </p>
+<p>AIT courses are designed to teach trainees a comprehensive skill set that will help them not only obtain their Class A CDL license but have a highly successful career in the trucking industry.  At AIT you will learn essentials like</p>
+<ul>
+<li>Basic control</li>
+<li>Preventative maintenance</li>
+<li>Trip planning</li>
+<li>Progressive shifting</li>
+<li>Coupling and uncoupling</li>
+<li>Cargo handling and documentation</li>
+<li>Night operations</li>
+<li>Extreme driving conditions</li>
+<li>Hazardous materials</li>
+<li>Team logs, &amp; more! </li>
+</ul>
+</div>
+<div class="columns small-12 large-6 medium-6 large-6">
+<div class="text-center hide-for-large-up"><a href="#formJump"><img src="../../img/applyNow.png" alt="Apply Now" width="80%" border="0"></a><br><br></div>
 <h3>Professional Truck Driving is a role fit for anyone with a clean driving record, a Class A CDL, and a will to succeed!</h3>
- 
-<p>The Professional Truck Driving Industry, already a market with competitive positions, is about to face a rising peak in demand throughout the next ten years. American Trucking Associations (ATA) figures an additional 89,000 drivers a year are needed to support America’s steadily growing economy in the next decade. Due to things like the replacement of retiring truck drivers and industry growth, the Professional Truck Driving Industry is in need of qualified drivers that will help nurture America’s growing economy. </p>
+<p>If you've got the drive, then the trucking industry has the rewards!  The truth is that drivers are so in demand that top-name trucking companies are competing with each other over new drivers! This is great news for anyone needing to improve or change careers! Professional truck drivers can look forward to</p>
+<ul>
+<li>Opportunities to earn $40,000 to $45,000 the first year*</li>
+<li>Job security</li>
+<li>Possible recruiting bonuses</li>
+<li>Paid externships</li>
+<li>Tuition reimbursement</li>
+<li>Retirement plans and stock options</li>
+<li>Health &amp; dental Insurance</li>
+<li>Wellness programs</li>
+<li>Life insurance</li>
+<li>Rider and pet policies, &amp; more!</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="columns small-12 large-7">
+<h1>Contact AIT Truck Driver Training Today!</h1>
+<p>AIT Truck Driver Training carefully limits the size of students in their courses to leave more opportunities for one-on-one training. Instructors at our  schools are former OTR truck drivers who use their millions of miles of experience for individual trainee progress. Through essential coursework and behind-the-wheel training, we'll help prepare you for a successful career in trucking!</p>
+<p>Don’t have your CDL license? Not a problem! Contact an AIT representative today to see what options you have for local truck driver training! Truck drivers are in high demand, and there’s never been a better time to jump into a career in the trucking industry!</p>
+<p><em>*wage info supplied by Werner Enterprises </em></p>
+</div>
+<div class="columns small-12 large-5">
+
+						 			<h1 style="margin: 0;">AIT Truck Driver Training</h3>
+							 			<p>9239 Brighton Rd., #201<br>
+						 			Henderson CO 80640<br>
+						 		<b>Phone: (303) 558-3152</b></p>
+</div>
 
 
-
-
-			  </div>
-		  </div>
-		  
-		  <div class="row">
-		 			<div class="columns small-12 large-6 noPad">
-			 			
-				 	<div id="form-top" class="text-center">
-					 			<h2 style="margin-top: 0;">Call us NOW at (303) 558-3152</h2>
-				 			</div>
-			 			
+</div>
+<div class="row">
+<div class="columns small-12 large-10 medium-10 large-centered">
+<div id="form-top" class="text-center">
+<h2 style="margin-top: 0;">Call us NOW at (303) 558-3152</h2>
+</div>
 			 		<!-- Salesforce Form-->
 			 			<form class="uneditable" data-abide action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" id="signupForm" method="POST">
 
@@ -172,58 +195,16 @@
 </div>
 
 </form>
-		 			
-		 			</div>
-		 			
-		 			<div class="columns small-12 large-6">
-			 			<h3>The American trucking industry needs drivers <span class="asterisk">*</span>, and Commercial Truck Drivers can earn</h3>
-			 			<h4>$40,900/year plus benefits in their FIRST year! <span class="asterisk">**</span></h4>
-			 			
-			 			<ul>
-				 			<li>AIT Truck Driver Training can train you to be a licensed truck driver in AS LITTLE AS 4 WEEKS.</li>
-				 			<li>You can even get PRE-HIRED by a trucking company like Swift or Werner BEFORE you even begin training! <span class="asterisk">***</span></li>
-				 			<li>Day, evening, and weekend classes are available, and financial aid is also available for those who qualify.</li>
-			 			</ul>
-			 			
-			 		<div id="form-top2" class="text-center">
-				 		<!--<h5>Call us now to get started!</h5>
-				 		<h6>(602) 457-3294</h6>-->
-					 			<h5>We are conveniently located at</h5>
-					 			<h6>AIT Truck Driver Training<br>
-						 			9239 Brighton Rd., #201<br>
-Henderson CO 80640</h6>
-						 		<h5>(303) 558-3152</h5>
-				 	</div>
-			 			
-				 		<ul class="disclaimer">
-				 			<li>* The U.S. Bureau of Labor Statistics expects trucking to add 330,100 jobs between 2010 and 2020. "Tons of trucking jobs ..." CNN Money, July 24, 2012</li>
-				 			<li>** As provided by the companies that hire the majority of our graduates: Werner and Swift.</li>
-				 			<li>*** Qualifications include successful completion of the program.</li>
-				 		</ul>
-		 			</div>
-		 					 			<div class="row">
-			 			<div class="columns small-12">
-				 							 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49028.126381030335!2d-105.03375333671458!3d39.82363508074891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c70e472eaf085%3A0x4a6d6f44745d5db8!2sAmerican+Institute-Technology!5e0!3m2!1sen!2sus!4v1442943630780" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-			 			</div>
-		 			</div>
-		 			
-		 </div>
-	 	
-	 	<div class="uneditable row">
-		 	<div class="columns small-12 text-center">
-			 	<p>
-			 	<a class="radius button large" href="http://www.ait-schools.com/?utm_source=landing%20page&utm_medium=ppc&utm_campaign=Denver%20PPC%20Referral
-">Go to AIT Home Page</a>
-			 	</p>
-			 	<p><a href="../privacy-policy.php" target="_blank">Privacy Policy</a></p>
-		 	</div>
-	 	</div>
-			 	
- 	</div><!-- End: Wrapper -->
+</div>
 
+<div class="uneditable row">
+<div class="columns small-12 text-center">
+<p><a class="radius secondary expand button" href="../../?utm_source=landing%20page&amp;utm_medium=ppc&amp;utm_campaign=Denver%20PPC%20Referral">Click Here to Continue to the AIT Website Home Page . . . </a><br><a href="../privacy-policy.php" target="_blank">Privacy Policy</a></p>
+</div>
+</div>
+</div>
+<!-- End: Wrapper -->
 <!-- Start Scripts-->
-
 <?php include("../sub-footer-scripts.inc"); ?>
-
 </body>
 </html>

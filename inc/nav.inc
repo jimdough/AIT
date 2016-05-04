@@ -9,15 +9,7 @@
         <ul class="right">
 	        <li><a href="index.php">Home</a></li>
 	        
-	        <li class="has-dropdown"><a href="cdl-course-information.php" >Courses</a>
-		      <ul class="dropdown">
-		           <li><a href="/truck-driver-training-course.php">Truck Driver Training Course</a></li>
-		       	   <li><a href="/diesel-truck-driver-training.php">Diesel Truck Driver Training</a></li>
-		       	   <li><a href="/commercial-truck-driver-training.php">Commercial Truck Driver Training</a></li>
-		        	<li><a href="/professional-truck-driver-training.php">Professional Truck Driver Training</a></li>
-		        	<li><a href="/faq.php">FAQ</a></li>
-		        </ul> 
-			</li>
+	        <li><a href="cdl-course-information.php" >CDL Training</a></li>
 			
 		 <li class="has-dropdown"><a href="/job-placement.php">Job Placement</a>
 		      <ul class="dropdown">
@@ -31,6 +23,7 @@
 			
 			<li class="has-dropdown"> <a href="/learn-about-ait-cdl-schools.php" >About</a>
 		      <ul  class="dropdown">
+			       <li><a href="/faq.php">FAQ</a></li>
 		        	<li><a href="/our-mission.php">Mission</a></li>
 		        	<li><a href="/history.php">History</a></li>
 		        	<li><a href="/recognition.php">Recognition</a></li>
